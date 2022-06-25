@@ -1,0 +1,1610 @@
+[
+    {
+        "title": "Designing Data-Intensive Applications",
+        "subtitle": "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+        "author": "Martin Kleppmann",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "32,64 €"
+    },
+    {
+        "title": "Fluent Python",
+        "subtitle": "",
+        "author": "Luciano Ramalho",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Building Microservices",
+        "subtitle": "",
+        "author": "Sam Newman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Architecture Patterns with Python",
+        "subtitle": "Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices",
+        "author": "Harry Percival",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Python for Data Analysis",
+        "subtitle": "Data Wrangling with Pandas, NumPy, and IPython",
+        "author": "Wes McKinney",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Software Engineering at Google",
+        "subtitle": "Lessons Learned from Programming Over Time",
+        "author": "Titus Winters",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "CompTIA Security+ SY0-601 Exam Cram",
+        "subtitle": "",
+        "author": "Martin M. Weiss",
+        "publisher": "Pearson Education",
+        "publication_year": "2020",
+        "price": "36,69 €"
+    },
+    {
+        "title": "Head First C#",
+        "subtitle": "",
+        "author": "Andrew Stellman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "37,44 €"
+    },
+    {
+        "title": "C# 10 in a Nutshell",
+        "subtitle": "",
+        "author": "Joseph Albahari",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "54,56 €"
+    },
+    {
+        "title": "Data Management at Scale",
+        "subtitle": "",
+        "author": "Piethein Strengholt",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Clean Code",
+        "subtitle": "A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "publisher": "Pearson Education",
+        "publication_year": "2008",
+        "price": "40,77 €"
+    },
+    {
+        "title": "Ebook Riches",
+        "subtitle": "",
+        "author": "David Brock",
+        "publisher": "Scribl",
+        "publication_year": "2019",
+        "price": "1,81 €"
+    },
+    {
+        "title": "Learning Modern Linux",
+        "subtitle": "",
+        "author": "Michael Hausenblas",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "CompTIA Security+ Study Guide",
+        "subtitle": "Exam SY0-601",
+        "author": "Mike Chapple",
+        "publisher": "Wiley",
+        "publication_year": "2021",
+        "price": "32,99 €"
+    },
+    {
+        "title": "Getting Started with p5.js",
+        "subtitle": "Making Interactive Graphics in JavaScript and Processing",
+        "author": "Lauren McCarthy",
+        "publisher": "Make Community, LLC",
+        "publication_year": "2015",
+        "price": "9,63 €"
+    },
+    {
+        "title": "Software Architecture Metrics",
+        "subtitle": "",
+        "author": "Christian Ciceri",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Data-Driven Science and Engineering",
+        "subtitle": "Machine Learning, Dynamical Systems, and Control",
+        "author": "Steven L. Brunton",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2022",
+        "price": "50,29 €"
+    },
+    {
+        "title": "AWS Cookbook",
+        "subtitle": "",
+        "author": "John Culkin",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Excel Basics to Blackbelt",
+        "subtitle": "An Accelerated Guide to Decision Support Designs",
+        "author": "Elliot Bendoly",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2020",
+        "price": "39,59 €"
+    },
+    {
+        "title": "Data Science on the Google Cloud Platform",
+        "subtitle": "",
+        "author": "Valliappa Lakshmanan",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "48,14 €"
+    },
+    {
+        "title": "SQL in a Nutshell",
+        "subtitle": "",
+        "author": "Kevin Kline",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "JavaScript: The Definitive Guide",
+        "subtitle": "Master the World's Most-Used Programming Language",
+        "author": "David Flanagan",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "49,22 €"
+    },
+    {
+        "title": "Database Internals",
+        "subtitle": "A Deep Dive into How Distributed Data Systems Work",
+        "author": "Alex Petrov",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Data Science from Scratch",
+        "subtitle": "First Principles with Python",
+        "author": "Joel Grus",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Streaming Systems",
+        "subtitle": "The What, Where, When, and How of Large-Scale Data Processing",
+        "author": "Tyler Akidau",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Practical Statistics for Data Scientists",
+        "subtitle": "50+ Essential Concepts Using R and Python",
+        "author": "Peter Bruce",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Python for Excel",
+        "subtitle": "",
+        "author": "Felix Zumstein",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "HTML and CSS",
+        "subtitle": "Design and Build Websites",
+        "author": "Jon Duckett",
+        "publisher": "Wiley",
+        "publication_year": "2011",
+        "price": "19,99 €"
+    },
+    {
+        "title": "Programming TypeScript",
+        "subtitle": "Making Your JavaScript Applications Scale",
+        "author": "Boris Cherny",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Head First Design Patterns",
+        "subtitle": "",
+        "author": "Eric Freeman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "48,14 €"
+    },
+    {
+        "title": "User Story Mapping",
+        "subtitle": "Discover the Whole Story, Build the Right Product",
+        "author": "Jeff Patton",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2014",
+        "price": "28,89 €"
+    },
+    {
+        "title": "High Performance Python",
+        "subtitle": "Practical Performant Programming for Humans",
+        "author": "Micha Gorelick",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Storytelling with Data",
+        "subtitle": "A Data Visualization Guide for Business Professionals",
+        "author": "Cole Nussbaumer Knaflic",
+        "publisher": "Wiley",
+        "publication_year": "2015",
+        "price": "25,99 €"
+    },
+    {
+        "title": "Building Event-Driven Microservices",
+        "subtitle": "",
+        "author": "Adam Bellemare",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "34,23 €"
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "subtitle": "your journey to mastery, 20th Anniversary Edition",
+        "author": "David Thomas",
+        "publisher": "Pearson Education",
+        "publication_year": "2019",
+        "price": "40,77 €"
+    },
+    {
+        "title": "The Software Architect Elevator",
+        "subtitle": "Redefining the Architect's Role in the Digital Enterprise",
+        "author": "Gregor Hohpe",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Java Performance",
+        "subtitle": "In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond",
+        "author": "Scott Oaks",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "T-SQL Fundamentals",
+        "subtitle": "",
+        "author": "Itzik Ben-Gan",
+        "publisher": "Pearson Education",
+        "publication_year": "2016",
+        "price": "40,77 €"
+    },
+    {
+        "title": "Learning React",
+        "subtitle": "Modern Patterns for Developing React Apps",
+        "author": "Alex Banks",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Container Security",
+        "subtitle": "Fundamental Technology Concepts that Protect Containerized Applications",
+        "author": "Liz Rice",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Data Analyst",
+        "subtitle": "Careers in data analysis",
+        "author": "Rune Rasmussen",
+        "publisher": "BCS Learning & Development Limited",
+        "publication_year": "2019",
+        "price": "22,14 €"
+    },
+    {
+        "title": "PowerShell Cookbook",
+        "subtitle": "",
+        "author": "Lee Holmes",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "48,14 €"
+    },
+    {
+        "title": "AI and Machine Learning for Coders",
+        "subtitle": "",
+        "author": "Laurence Moroney",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Introduction to Software Testing",
+        "subtitle": "",
+        "author": "Paul Ammann",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2016",
+        "price": "51,36 €"
+    },
+    {
+        "title": "Kafka: The Definitive Guide",
+        "subtitle": "",
+        "author": "Gwen Shapira",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Robust Python",
+        "subtitle": "",
+        "author": "Patrick Viafore",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Programming Scala",
+        "subtitle": "",
+        "author": "Dean Wampler",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "The Art of Agile Development",
+        "subtitle": "",
+        "author": "James Shore",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Learning the vi and Vim Editors",
+        "subtitle": "",
+        "author": "Arnold Robbins",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "31,02 €"
+    },
+    {
+        "title": "Optimizing Java",
+        "subtitle": "Practical Techniques for Improving JVM Application Performance",
+        "author": "Benjamin J Evans",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Cloud Native Data Center Networking",
+        "subtitle": "Architecture, Protocols, and Tools",
+        "author": "Dinesh G. Dutt",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Site Reliability Engineering",
+        "subtitle": "How Google Runs Production Systems",
+        "author": "Niall Richard Murphy",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2016",
+        "price": "37,45 €"
+    },
+    {
+        "title": "Command-Line Rust",
+        "subtitle": "",
+        "author": "Ken Youens-Clark",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Star Schema The Complete Reference",
+        "subtitle": "",
+        "author": "Christopher Adamson",
+        "publisher": "McGraw Hill LLC",
+        "publication_year": "2010",
+        "price": "35,78 €"
+    },
+    {
+        "title": "Implementing Service Level Objectives",
+        "subtitle": "",
+        "author": "Alex Hidalgo",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Refactoring",
+        "subtitle": "Improving the Design of Existing Code",
+        "author": "Martin Fowler",
+        "publisher": "Pearson Education",
+        "publication_year": "2018",
+        "price": "48,92 €"
+    },
+    {
+        "title": "Python Distilled",
+        "subtitle": "",
+        "author": "David M Beazley",
+        "publisher": "Pearson Education",
+        "publication_year": "2021",
+        "price": "40,77 €"
+    },
+    {
+        "title": "Building Micro-Frontends",
+        "subtitle": "",
+        "author": "Luca Mezzalira",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "34,23 €"
+    },
+    {
+        "title": "SQL Pocket Guide",
+        "subtitle": "",
+        "author": "Alice Zhao",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "13,90 €"
+    },
+    {
+        "title": "Practical Cloud Security",
+        "subtitle": "A Guide for Secure Design and Deployment",
+        "author": "Chris Dotson",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Practical Process Automation",
+        "subtitle": "",
+        "author": "Bernd Ruecker",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Software Testing",
+        "subtitle": "An ISTQB-BCS Certified Tester Foundation guide - 4th edition",
+        "author": "Brian Hambling",
+        "publisher": "BCS Learning & Development Limited",
+        "publication_year": "2019",
+        "price": "44,29 €"
+    },
+    {
+        "title": "Hacking Kubernetes",
+        "subtitle": "",
+        "author": "Andrew Martin",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Scala Cookbook",
+        "subtitle": "",
+        "author": "Alvin Alexander",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Cloud FinOps",
+        "subtitle": "Collaborative, Real-Time Cloud Financial Management",
+        "author": "J. R. Storment",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Mastering Professional Scrum",
+        "subtitle": "A Practitioner’s Guide to Overcoming Challenges and Maximizing the Benefits of Agility",
+        "author": "Stephanie Ockerman",
+        "publisher": "Pearson Education",
+        "publication_year": "2019",
+        "price": "28,53 €"
+    },
+    {
+        "title": "Head First Git",
+        "subtitle": "",
+        "author": "Raju Gandhi",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Tableau Desktop Pocket Reference",
+        "subtitle": "",
+        "author": "Ryan Sleeper",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "21,39 €"
+    },
+    {
+        "title": "Learning Helm",
+        "subtitle": "",
+        "author": "Matt Butcher",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Practical Machine Learning for Computer Vision",
+        "subtitle": "",
+        "author": "Valliappa Lakshmanan",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "WebAssembly: The Definitive Guide",
+        "subtitle": "",
+        "author": "Brian Sletten",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Efficient Linux at the Command Line",
+        "subtitle": "",
+        "author": "Daniel J. Barrett",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Learning Spark",
+        "subtitle": "",
+        "author": "Jules S. Damji",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "31,02 €"
+    },
+    {
+        "title": "Practical Fraud Prevention",
+        "subtitle": "",
+        "author": "Gilit Saporta",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Angular: Up and Running",
+        "subtitle": "Learning Angular, Step by Step",
+        "author": "Shyam Seshadri",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "31,02 €"
+    },
+    {
+        "title": "SQL Server 2019 Administration Inside Out",
+        "subtitle": "",
+        "author": "Randolph West",
+        "publisher": "Pearson Education",
+        "publication_year": "2020",
+        "price": "48,92 €"
+    },
+    {
+        "title": "PyTorch Pocket Reference",
+        "subtitle": "",
+        "author": "Joe Papa",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "21,39 €"
+    },
+    {
+        "title": "EPUB 3 Best Practices",
+        "subtitle": "Optimize Your Digital Books",
+        "author": "Matt Garrish",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2013",
+        "price": "14,45 €"
+    },
+    {
+        "title": "Cloud Native DevOps with Kubernetes",
+        "subtitle": "",
+        "author": "Justin Domingus",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Programming in Haskell",
+        "subtitle": "",
+        "author": "Graham Hutton",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2016",
+        "price": "32,10 €"
+    },
+    {
+        "title": "Ten Arguments for Deleting Your Social Media Accounts Right Now",
+        "subtitle": "",
+        "author": "Jaron Lanier",
+        "publisher": "Henry Holt and Co.",
+        "publication_year": "2018",
+        "price": "11,26 €"
+    },
+    {
+        "title": "Concurrency in C# Cookbook",
+        "subtitle": "Asynchronous, Parallel, and Multithreaded Programming",
+        "author": "Stephen Cleary",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Get Into UX",
+        "subtitle": "A foolproof guide to getting your first user experience job",
+        "author": "Vy Alechnavicius",
+        "publisher": "Vytautas Alechnavicius",
+        "publication_year": "2021",
+        "price": "5,34 €"
+    },
+    {
+        "title": "Mastering Ubuntu Server",
+        "subtitle": "Gain expertise in the art of deploying, configuring, managing, and troubleshooting Ubuntu Server",
+        "author": "Jay LaCroix",
+        "publisher": "Packt Publishing",
+        "publication_year": "2020",
+        "price": "28,88 €"
+    },
+    {
+        "title": "Introduction to Algorithms, fourth edition",
+        "subtitle": "",
+        "author": "Thomas H. Cormen",
+        "publisher": "MIT Press",
+        "publication_year": "2022",
+        "price": "137,62 €"
+    },
+    {
+        "title": "Python Data Science Handbook",
+        "subtitle": "Essential Tools for Working with Data",
+        "author": "Jake VanderPlas",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2016",
+        "price": "49,22 €"
+    },
+    {
+        "title": "Introducing Python",
+        "subtitle": "Modern Computing in Simple Packages",
+        "author": "Bill Lubanovic",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Test-Driven Development with Python",
+        "subtitle": "Obey the Testing Goat: Using Django, Selenium, and JavaScript",
+        "author": "Harry Percival",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "31,02 €"
+    },
+    {
+        "title": "Effective Modern C++",
+        "subtitle": "42 Specific Ways to Improve Your Use of C++11 and C++14",
+        "author": "Scott Meyers",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2014",
+        "price": "41,20 €"
+    },
+    {
+        "title": "Learning Web Design",
+        "subtitle": "A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",
+        "author": "Jennifer Robbins",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Monolith to Microservices",
+        "subtitle": "Evolutionary Patterns to Transform Your Monolith",
+        "author": "Sam Newman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Terraform: Up & Running",
+        "subtitle": "Writing Infrastructure as Code",
+        "author": "Yevgeniy Brikman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Microsoft Project 2019 Step by Step",
+        "subtitle": "",
+        "author": "Cindy M. Lewis",
+        "publisher": "Pearson Education",
+        "publication_year": "2019",
+        "price": "32,61 €"
+    },
+    {
+        "title": "Learning Python",
+        "subtitle": "Powerful Object-Oriented Programming",
+        "author": "Mark Lutz",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2013",
+        "price": "46,01 €"
+    },
+    {
+        "title": "Writing Great Specifications",
+        "subtitle": "Using Specification by Example and Gherkin",
+        "author": "Kamil Nicieja",
+        "publisher": "Manning",
+        "publication_year": "2017",
+        "price": "31,12 €"
+    },
+    {
+        "title": "Kotlin in Action",
+        "subtitle": "",
+        "author": "Dmitry Jemerov",
+        "publisher": "Manning",
+        "publication_year": "2017",
+        "price": "31,12 €"
+    },
+    {
+        "title": "Fundamentals of Data Engineering",
+        "subtitle": "",
+        "author": "Joe Reis",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Python Crash Course, 2nd Edition",
+        "subtitle": "A Hands-On, Project-Based Introduction to Programming",
+        "author": "Eric Matthes",
+        "publisher": "No Starch Press",
+        "publication_year": "2019",
+        "price": "40,73 €"
+    },
+    {
+        "title": "Data-Driven Science and Engineering",
+        "subtitle": "Machine Learning, Dynamical Systems, and Control",
+        "author": "Steven L. Brunton",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2019",
+        "price": "52,43 €"
+    },
+    {
+        "title": "Data Science for Business",
+        "subtitle": "What You Need to Know about Data Mining and Data-Analytic Thinking",
+        "author": "Foster Provost",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2013",
+        "price": "32,64 €"
+    },
+    {
+        "title": "Microsoft Excel 2019 Data Analysis and Business Modeling",
+        "subtitle": "",
+        "author": "Wayne Winston",
+        "publisher": "Pearson Education",
+        "publication_year": "2019",
+        "price": "40,77 €"
+    },
+    {
+        "title": "Stream Processing with Apache Flink",
+        "subtitle": "Fundamentals, Implementation, and Operation of Streaming Applications",
+        "author": "Fabian Hueske",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "29,95 €"
+    },
+    {
+        "title": "Interactive Data Visualization for the Web",
+        "subtitle": "An Introduction to Designing with D3",
+        "author": "Scott Murray",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "34,23 €"
+    },
+    {
+        "title": "MongoDB: The Definitive Guide",
+        "subtitle": "Powerful and Scalable Data Storage",
+        "author": "Shannon Bradshaw",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Python for DevOps",
+        "subtitle": "Learn Ruthlessly Effective Automation",
+        "author": "Noah Gift",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Mathematics for Machine Learning",
+        "subtitle": "",
+        "author": "Marc Peter Deisenroth",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2020",
+        "price": "37,45 €"
+    },
+    {
+        "title": "Cloud Native Go",
+        "subtitle": "",
+        "author": "Matthew A. Titmus",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Learning SQL",
+        "subtitle": "Generate, Manipulate, and Retrieve Data",
+        "author": "Alan Beaulieu",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Kubernetes: Up and Running",
+        "subtitle": "Dive into the Future of Infrastructure",
+        "author": "Brendan Burns",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "48,14 €"
+    },
+    {
+        "title": "gRPC: Up and Running",
+        "subtitle": "Building Cloud Native Applications with Go and Java for Docker and Kubernetes",
+        "author": "Kasun Indrasiri",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "31,02 €"
+    },
+    {
+        "title": "Spark: The Definitive Guide",
+        "subtitle": "Big Data Processing Made Simple",
+        "author": "Bill Chambers",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Practical Time Series Analysis",
+        "subtitle": "Prediction with Statistics and Machine Learning",
+        "author": "Aileen Nielsen",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Python for Finance",
+        "subtitle": "Mastering Data-Driven Finance",
+        "author": "Yves Hilpisch",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Probability and Computing",
+        "subtitle": "Randomization and Probabilistic Techniques in Algorithms and Data Analysis",
+        "author": "Michael Mitzenmacher",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2017",
+        "price": "48,15 €"
+    },
+    {
+        "title": "Concurrency in Go",
+        "subtitle": "Tools and Techniques for Developers",
+        "author": "Katherine Cox-Buday",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "41,20 €"
+    },
+    {
+        "title": "Essential Scrum",
+        "subtitle": "A Practical Guide to the Most Popular Agile Process",
+        "author": "Kenneth S. Rubin",
+        "publisher": "Pearson Education",
+        "publication_year": "2012",
+        "price": "40,77 €"
+    },
+    {
+        "title": "C Programming Absolute Beginner's Guide",
+        "subtitle": "",
+        "author": "Greg Perry",
+        "publisher": "Pearson Education",
+        "publication_year": "2013",
+        "price": "24,46 €"
+    },
+    {
+        "title": "CompTIA A+ Certification All-in-One Exam Guide, Tenth Edition (Exams 220-1001 & 220-1002)",
+        "subtitle": "",
+        "author": "Mike Meyers",
+        "publisher": "McGraw Hill LLC",
+        "publication_year": "2019",
+        "price": "55,05 €"
+    },
+    {
+        "title": "Adobe Photoshop Classroom in a Book (2021 release)",
+        "subtitle": "",
+        "author": "Conrad Chavez",
+        "publisher": "Pearson Education",
+        "publication_year": "2021",
+        "price": "48,92 €"
+    },
+    {
+        "title": "Deep Learning from Scratch",
+        "subtitle": "Building with Python from First Principles",
+        "author": "Seth Weidman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Programming Kubernetes",
+        "subtitle": "Developing Cloud-Native Applications",
+        "author": "Michael Hausenblas",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Building Evolutionary Architectures",
+        "subtitle": "Support Constant Change",
+        "author": "Neal Ford",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Google BigQuery: The Definitive Guide",
+        "subtitle": "Data Warehousing, Analytics, and Machine Learning at Scale",
+        "author": "Valliappa Lakshmanan",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Full Stack Testing",
+        "subtitle": "",
+        "author": "Gayathri Mohan",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Programming Rust",
+        "subtitle": "",
+        "author": "Jim Blandy",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+        "subtitle": "Concepts, Tools, and Techniques to Build Intelligent Systems",
+        "author": "Aurélien Géron",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Effective TypeScript",
+        "subtitle": "62 Specific Ways to Improve Your TypeScript",
+        "author": "Dan Vanderkam",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Fundamentals of Software Architecture",
+        "subtitle": "An Engineering Approach",
+        "author": "Mark Richards",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Cloud Native Security Cookbook",
+        "subtitle": "",
+        "author": "Josh Armitage",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Machine Learning",
+        "subtitle": "A First Course for Engineers and Scientists",
+        "author": "Andreas Lindholm",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2022",
+        "price": "54,57 €"
+    },
+    {
+        "title": "Hands-On Selenium WebDriver with Java",
+        "subtitle": "",
+        "author": "Boni Garcia",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2022",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Pro Go",
+        "subtitle": "The Complete Guide to Programming Reliable and Efficient Software Using Golang",
+        "author": "Adam Freeman",
+        "publisher": "Apress",
+        "publication_year": "2022",
+        "price": "52,99 €"
+    },
+    {
+        "title": "Pro T-SQL Programmer's Guide",
+        "subtitle": "",
+        "author": "Jay Natarajan",
+        "publisher": "Apress",
+        "publication_year": "2015",
+        "price": "79,99 €"
+    },
+    {
+        "title": "Information Security Management Principles",
+        "subtitle": "",
+        "author": "Andy Taylor",
+        "publisher": "BCS Learning & Development Limited",
+        "publication_year": "2020",
+        "price": "44,29 €"
+    },
+    {
+        "title": "Clean Architecture",
+        "subtitle": "A Craftsman's Guide to Software Structure and Design",
+        "author": "Robert C. Martin",
+        "publisher": "Pearson Education",
+        "publication_year": "2017",
+        "price": "31,59 €"
+    },
+    {
+        "title": "Data Pipelines Pocket Reference",
+        "subtitle": "",
+        "author": "James Densmore",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "21,39 €"
+    },
+    {
+        "title": "Python Cookbook",
+        "subtitle": "Recipes for Mastering Python 3",
+        "author": "David Beazley",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2013",
+        "price": "34,24 €"
+    },
+    {
+        "title": "Linux Observability with BPF",
+        "subtitle": "Advanced Programming for Performance Analysis and Networking",
+        "author": "David Calavera",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Python for Algorithmic Trading",
+        "subtitle": "",
+        "author": "Yves Hilpisch",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "48,14 €"
+    },
+    {
+        "title": "SQL Cookbook",
+        "subtitle": "",
+        "author": "Anthony Molinaro",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "iOS 15 Programming Fundamentals with Swift",
+        "subtitle": "",
+        "author": "Matt Neuburg",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "CompTIA A+ Complete Study Guide",
+        "subtitle": "Exam Core 1 220-1001 and Exam Core 2 220-1002",
+        "author": "Quentin Docter",
+        "publisher": "Wiley",
+        "publication_year": "2019",
+        "price": "32,99 €"
+    },
+    {
+        "title": "The Data Warehouse Toolkit",
+        "subtitle": "The Definitive Guide to Dimensional Modeling",
+        "author": "Ralph Kimball",
+        "publisher": "Wiley",
+        "publication_year": "2013",
+        "price": "46,99 €"
+    },
+    {
+        "title": "Strategic Writing for UX",
+        "subtitle": "Drive Engagement, Conversion, and Retention with Every Word",
+        "author": "Torrey Podmajersky",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Designing Interfaces",
+        "subtitle": "Patterns for Effective Interaction Design",
+        "author": "Jenifer Tidwell",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Practical Deep Learning for Cloud, Mobile, and Edge",
+        "subtitle": "Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow",
+        "author": "Anirudh Koul",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "48,14 €"
+    },
+    {
+        "title": "OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide",
+        "subtitle": "Exam 1Z0-808",
+        "author": "Jeanne Boyarsky",
+        "publisher": "Wiley",
+        "publication_year": "2014",
+        "price": "38,99 €"
+    },
+    {
+        "title": "Programming Python",
+        "subtitle": "Powerful Object-Oriented Programming",
+        "author": "Mark Lutz",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2010",
+        "price": "50,29 €"
+    },
+    {
+        "title": "Zero Trust Networks",
+        "subtitle": "Building Secure Systems in Untrusted Networks",
+        "author": "Evan Gilman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Domain-Driven Design Distilled",
+        "subtitle": "",
+        "author": "Vaughn Vernon",
+        "publisher": "Pearson Education",
+        "publication_year": "2016",
+        "price": "32,61 €"
+    },
+    {
+        "title": "CISM Certified Information Security Manager Bundle",
+        "subtitle": "",
+        "author": "Peter H. Gregory",
+        "publisher": "McGraw Hill LLC",
+        "publication_year": "2019",
+        "price": "82,57 €"
+    },
+    {
+        "title": "Spring Boot: Up and Running",
+        "subtitle": "",
+        "author": "Mark Heckler",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Exam Ref 70-762 Developing SQL Databases",
+        "subtitle": "",
+        "author": "Louis Davidson",
+        "publisher": "Pearson Education",
+        "publication_year": "2017",
+        "price": "32,61 €"
+    },
+    {
+        "title": "The Student's Introduction to Mathematica and the Wolfram Language",
+        "subtitle": "",
+        "author": "Bruce F. Torrence",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2019",
+        "price": "41,73 €"
+    },
+    {
+        "title": "Data Science and Big Data Analytics",
+        "subtitle": "Discovering, Analyzing, Visualizing and Presenting Data",
+        "author": "EMC Education Services",
+        "publisher": "Wiley",
+        "publication_year": "2014",
+        "price": "46,99 €"
+    },
+    {
+        "title": "Infrastructure as Code",
+        "subtitle": "",
+        "author": "Kief Morris",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Mastering Ethereum",
+        "subtitle": "Building Smart Contracts and DApps",
+        "author": "Andreas M. Antonopoulos",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "40,65 €"
+    },
+    {
+        "title": "DNS and BIND",
+        "subtitle": "Help for System Administrators",
+        "author": "Cricket Liu",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2006",
+        "price": "38,52 €"
+    },
+    {
+        "title": "Practical Natural Language Processing",
+        "subtitle": "A Comprehensive Guide to Building Real-World NLP Systems",
+        "author": "Sowmya Vajjala",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "48,14 €"
+    },
+    {
+        "title": "High Performance MySQL",
+        "subtitle": "",
+        "author": "Silvia Botros",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Debugging Teams",
+        "subtitle": "Better Productivity through Collaboration",
+        "author": "Brian W. Fitzpatrick",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2015",
+        "price": "21,40 €"
+    },
+    {
+        "title": "Applied Text Analysis with Python",
+        "subtitle": "Enabling Language-Aware Data Products with Machine Learning",
+        "author": "Benjamin Bengfort",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Flask Web Development",
+        "subtitle": "Developing Web Applications with Python",
+        "author": "Miguel Grinberg",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Algorithm Design with Haskell",
+        "subtitle": "",
+        "author": "Richard Bird",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2020",
+        "price": "50,29 €"
+    },
+    {
+        "title": "JavaScript Everywhere",
+        "subtitle": "Building Cross-Platform Applications with GraphQL, React, React Native, and Electron",
+        "author": "Adam D. Scott",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "34,23 €"
+    },
+    {
+        "title": "CISM Certified Information Security Manager All-in-One Exam Guide",
+        "subtitle": "",
+        "author": "Peter H. Gregory",
+        "publisher": "McGraw Hill LLC",
+        "publication_year": "2018",
+        "price": "61,17 €"
+    },
+    {
+        "title": "AWS Certified Solutions Architect Study Guide",
+        "subtitle": "Associate SAA-C02 Exam",
+        "author": "Ben Piper",
+        "publisher": "Wiley",
+        "publication_year": "2020",
+        "price": "38,99 €"
+    },
+    {
+        "title": "OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide",
+        "subtitle": "Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817",
+        "author": "Jeanne Boyarsky",
+        "publisher": "Wiley",
+        "publication_year": "2020",
+        "price": "51,99 €"
+    },
+    {
+        "title": "Head First PMP",
+        "subtitle": "A Learner's Companion to Passing the Project Management Professional Exam",
+        "author": "Jennifer Greene",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "54,56 €"
+    },
+    {
+        "title": "(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide",
+        "subtitle": "",
+        "author": "Mike Chapple",
+        "publisher": "Wiley",
+        "publication_year": "2021",
+        "price": "44,99 €"
+    },
+    {
+        "title": "AWS Certified Developer Official Study Guide, Associate Exam",
+        "subtitle": "Associate (DVA-C01) Exam",
+        "author": "Nick Alteen",
+        "publisher": "Wiley",
+        "publication_year": "2019",
+        "price": "38,99 €"
+    },
+    {
+        "title": "Patterns, Principles, and Practices of Domain-Driven Design",
+        "subtitle": "",
+        "author": "Scott Millett",
+        "publisher": "Wiley",
+        "publication_year": "2015",
+        "price": "38,99 €"
+    },
+    {
+        "title": "Data Mining and Machine Learning",
+        "subtitle": "Fundamental Concepts and Algorithms",
+        "author": "Mohammed J. Zaki",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2020",
+        "price": "57,78 €"
+    },
+    {
+        "title": "Interaction Design",
+        "subtitle": "Beyond Human-Computer Interaction",
+        "author": "Helen Sharp",
+        "publisher": "Wiley",
+        "publication_year": "2019",
+        "price": "44,99 €"
+    },
+    {
+        "title": "Web Application Security",
+        "subtitle": "Exploitation and Countermeasures for Modern Web Applications",
+        "author": "Andrew Hoffman",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Introduction to Machine Learning with Python",
+        "subtitle": "A Guide for Data Scientists",
+        "author": "Andreas C. Müller",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2016",
+        "price": "41,20 €"
+    },
+    {
+        "title": "PostgreSQL: Up and Running",
+        "subtitle": "A Practical Guide to the Advanced Open Source Database",
+        "author": "Regina O. Obe",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Programming iOS 14",
+        "subtitle": "",
+        "author": "Matt Neuburg",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Coaching Agile Teams",
+        "subtitle": "A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition",
+        "author": "Lyssa Adkins",
+        "publisher": "Pearson Education",
+        "publication_year": "2010",
+        "price": "40,77 €"
+    },
+    {
+        "title": "Design Patterns",
+        "subtitle": "Elements of Reusable Object-Oriented Software (Adobe Reader)",
+        "author": "Erich Gamma",
+        "publisher": "Pearson Education",
+        "publication_year": "1994",
+        "price": "48,92 €"
+    },
+    {
+        "title": "Learning Scientific Programming with Python",
+        "subtitle": "",
+        "author": "Christian Hill",
+        "publisher": "Cambridge University Press",
+        "publication_year": "2020",
+        "price": "35,31 €"
+    },
+    {
+        "title": "Go Programming Language, The",
+        "subtitle": "",
+        "author": "Alan A. A. Donovan",
+        "publisher": "Pearson Education",
+        "publication_year": "2015",
+        "price": "32,61 €"
+    },
+    {
+        "title": "Web Development with Node and Express",
+        "subtitle": "Leveraging the JavaScript Stack",
+        "author": "Ethan Brown",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Ansible: Up and Running",
+        "subtitle": "Automating Configuration Management and Deployment the Easy Way",
+        "author": "Lorin Hochstein",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "27,81 €"
+    },
+    {
+        "title": "Mastering Regular Expressions",
+        "subtitle": "Understand Your Data and Be More Productive",
+        "author": "Jeffrey E. F. Friedl",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2006",
+        "price": "41,20 €"
+    },
+    {
+        "title": "Microsoft Excel 2019 VBA and Macros",
+        "subtitle": "",
+        "author": "Bill Jelen",
+        "publisher": "Pearson Education",
+        "publication_year": "2018",
+        "price": "32,61 €"
+    },
+    {
+        "title": "Adobe Illustrator Classroom in a Book (2021 release)",
+        "subtitle": "",
+        "author": "Brian Wood",
+        "publisher": "Pearson Education",
+        "publication_year": "2020",
+        "price": "48,92 €"
+    },
+    {
+        "title": "Java Cookbook",
+        "subtitle": "Problems and Solutions for Java Developers",
+        "author": "Ian F. Darwin",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "SQL for Data Analysis",
+        "subtitle": "",
+        "author": "Cathy Tanimura",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2021",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Python in a Nutshell",
+        "subtitle": "A Desktop Quick Reference",
+        "author": "Alex Martelli",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "49,22 €"
+    },
+    {
+        "title": "(ISC)2 CCSP Certified Cloud Security Professional Official Practice Tests",
+        "subtitle": "",
+        "author": "Ben Malisow",
+        "publisher": "Wiley",
+        "publication_year": "2020",
+        "price": "25,99 €"
+    },
+    {
+        "title": "Chaos Engineering",
+        "subtitle": "System Resiliency in Practice",
+        "author": "Casey Rosenthal",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "48,14 €"
+    },
+    {
+        "title": "macOS Catalina: The Missing Manual",
+        "subtitle": "The Book That Should Have Been in the Box",
+        "author": "David Pogue",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "24,60 €"
+    },
+    {
+        "title": "Docker: Up & Running",
+        "subtitle": "Shipping Reliable Containers in Production",
+        "author": "Sean P. Kane",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2018",
+        "price": "34,23 €"
+    },
+    {
+        "title": "Making Embedded Systems",
+        "subtitle": "Design Patterns for Great Software",
+        "author": "Elecia White",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2011",
+        "price": "31,03 €"
+    },
+    {
+        "title": "Information Architecture",
+        "subtitle": "For the Web and Beyond",
+        "author": "Louis Rosenfeld",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2015",
+        "price": "37,45 €"
+    },
+    {
+        "title": "Cloud Computing",
+        "subtitle": "Concepts, Technology & Architecture",
+        "author": "Thomas Erl",
+        "publisher": "Pearson Education",
+        "publication_year": "2013",
+        "price": "44,84 €"
+    },
+    {
+        "title": "The Visual Story",
+        "subtitle": "Creating the Visual Structure of Film, TV, and Digital Media",
+        "author": "Bruce Block",
+        "publisher": "Taylor and Francis",
+        "publication_year": "2020",
+        "price": "34,26 €"
+    },
+    {
+        "title": "Cloud Native Transformation",
+        "subtitle": "Practical Patterns for Innovation",
+        "author": "Pini Reznik",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2019",
+        "price": "48,14 €"
+    },
+    {
+        "title": "Reinforcement Learning",
+        "subtitle": "",
+        "author": "Phil Winder Ph. D.",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2020",
+        "price": "40,65 €"
+    },
+    {
+        "title": "Practical Monitoring",
+        "subtitle": "Effective Strategies for the Real World",
+        "author": "Mike Julian",
+        "publisher": "O'Reilly Media",
+        "publication_year": "2017",
+        "price": "18,18 €"
+    }
+]
