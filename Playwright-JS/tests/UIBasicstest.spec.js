@@ -4,7 +4,6 @@ const {test, expect} = require('@playwright/test');
 test('Browser Context Playwright text', async ({browser})=>
 {
 
-
     // chrome - plugins/ cookies
     const context = await browser.newContext();
     const page = await context.newPage();
@@ -38,7 +37,7 @@ test('Browser Context Playwright text', async ({browser})=>
 });
 
 
-test.only('register and login with playwright codegen', async ({page}) => 
+test('register and login with playwright codegen', async ({page}) => 
 {
     await page.goto("https://rahulshettyacademy.com/client");
     await page.locator("text=Register here").click();
@@ -73,3 +72,43 @@ test.only('register and login with playwright codegen', async ({page}) =>
 
     
 })
+
+test.only('Browser Context Playwright waitForNavigation', async ({browser})=>
+{
+
+    // chrome - plugins/ cookies
+    const context = await browser.newContext();
+    const page = await context.newPage();
+    await page.goto("https://rahulshettyacademy.com/loginpagePractise/");
+    console.log(await page.title());
+
+    const userName = page.locator('#username');
+    const signIn = page.locator('#signInBtn');
+    const cardTitles = page.locator(".card-body a");
+
+    // css, xpath
+    await userName.type("rahulshetty");
+    await page.locator("#password").type("learning");
+    await signIn.click();
+    //wait until this locator shown up page
+    console.log(await page.locator("[style*='block']").textContent());
+    await expect(page.locator("[style*='block']")).toContainText('Incorrect');
+
+    // type - fill
+    await userName.fill("");
+    await userName.fill("rahulshettyacademy");
+
+    // for non service apps
+    // race condition
+    await Promise.all(
+      [
+        page.waitForNavigation(),
+        signIn.click(),
+      ]  
+    );
+    // console.log(await cardTitles.first().textContent());
+    // console.log(await cardTitles.nth(1).textContent());
+
+    const allTitles = await cardTitles.allTextContents();
+    console.log(allTitles)
+});
