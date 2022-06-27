@@ -1,7 +1,7 @@
 const {test, expect} = require('@playwright/test');
 
 
-test.only('register and login with playwright codegen', async ({page}) => 
+test('register and login with playwright codegen', async ({page}) => 
 {
     await page.goto("https://rahulshettyacademy.com/client");
 
@@ -11,6 +11,7 @@ test.only('register and login with playwright codegen', async ({page}) =>
 
     // wait until network is idle
     await page.waitForLoadState('networkidle');
+
 
     const titles = await page.locator('.card-body b').allTextContents();
 

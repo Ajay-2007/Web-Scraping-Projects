@@ -73,7 +73,7 @@ test('register and login with playwright codegen', async ({page}) =>
     
 })
 
-test.only('Browser Context Playwright waitForNavigation', async ({browser})=>
+test('Browser Context Playwright waitForNavigation', async ({browser})=>
 {
 
     // chrome - plugins/ cookies
