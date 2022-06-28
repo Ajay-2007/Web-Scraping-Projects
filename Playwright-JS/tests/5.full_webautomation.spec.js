@@ -72,18 +72,30 @@ test('register and login with playwright codegen', async ({page}) =>
     const orderIds = await page.locator(".em-spacer-1 .ng-star-inserted").allTextContents();
     console.log(orderIds);
 
-    await page.locator('button[routerlink="/dashboard/myorders"]').click();
+    // await page.locator('button[routerlink="/dashboard/myorders"]').click();
+    await page.locator('button[routerlink*="myorders"]').click();
 
-    const tableRows = page.locator('table .ng-star-inserted');
+    // wait until the table body show up
+    await page.locator("tbody").waitFor();
+    
+    // const tableRows = page.locator('table .ng-star-inserted');
+    const tableRows = page.locator('tbody tr');
 
     const tableRowsCount = await tableRows.count();
 
     console.log(orderIds[0]);
     for (i = 0; i < tableRowsCount; ++i) {
-        const orderId = await tableRows.locator("table .ng-star-inserted th[scope='row']").nth(i).textContent();
-        if (orderIds[0] == orderId) {
-            console.log('order id found');
+        // const orderId = await tableRows.nth(i).locator("table .ng-star-inserted th[scope='row']").textContent();
+        // const orderId = await tableRows.nth(i).locator("th[scope='row']").textContent();
+        const orderId = await tableRows.nth(i).locator("th").textContent();
+        if (orderId.includes(orderIds[i])) {
+            // console.log('order id found');
+            await tableRows.nth(i).locator("button").first().click();
+            break;
         }
     }
+
+    const orderIdDetails = await page.locator(".col-text").textContent();
+    expect(orderIds[0].includes(orderIdDetails)).toBeTruthy();
     
 })
