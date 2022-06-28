@@ -1,0 +1,58 @@
+[
+    {
+        "Company Name": "CloudQ",
+        "AppExchange Listing URL": "https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N3A00000FK9c8UAD&channel=featured&placement=a0d3u000008fJpLAAU",
+        "Certified Experts": "84",
+        "Projects Completed": "58",
+        "Founded Year": "2013",
+        "Number of Reviews": "33",
+        "Headquarters (City, State, Country)": "Alpharetta, GA, USA",
+        "Website": "https://www.cloudq.net/",
+        "Domain": "www.cloudq.net",
+        "Phone": "+1 (404) 410-1441",
+        "Email": "info@cloudq.net",
+        "Rating": "4.9"
+    },
+    {
+        "Company Name": "Appluent",
+        "AppExchange Listing URL": "https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N3000000DyAYSEA3&channel=featured&placement=a0d3u000008fJpLAAU",
+        "Certified Experts": "11",
+        "Projects Completed": "187",
+        "Founded Year": "2013",
+        "Number of Reviews": "29",
+        "Headquarters (City, State, Country)": "Phoenixville, PA",
+        "Website": "https://appluent.net",
+        "Domain": "appluent.net",
+        "Phone": "484-920-3741",
+        "Email": "info@appluent.net",
+        "Rating": "4.7"
+    },
+    {
+        "Company Name": "LeverUp",
+        "AppExchange Listing URL": "https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N3u00000PG54REAT&channel=featured&placement=a0d3u000008fJpLAAU",
+        "Certified Experts": "7",
+        "Projects Completed": "10",
+        "Founded Year": "2019",
+        "Number of Reviews": "6",
+        "Headquarters (City, State, Country)": "Zagreb, Croatia",
+        "Website": "https://www.leverup.io/",
+        "Domain": "www.leverup.io",
+        "Phone": "+38515613129",
+        "Email": "info@leverup.com",
+        "Rating": "4.7"
+    },
+    {
+        "Company Name": "Fast",
+        "AppExchange Listing URL": "https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N3000000DgOKOEA3&channel=featured&placement=a0d3u000008fJpLAAU",
+        "Certified Experts": "63",
+        "Projects Completed": "560",
+        "Founded Year": "2014",
+        "Number of Reviews": "141",
+        "Headquarters (City, State, Country)": "Birmingham, AL, USA",
+        "Website": "http://www.fastslowmotion.com/salesforce",
+        "Domain": "www.fastslowmotion.com",
+        "Phone": "866-917-8833",
+        "Email": "info@fastslowmotion.com",
+        "Rating": "4.9"
+    }
+]

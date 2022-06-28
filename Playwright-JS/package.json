@@ -9,5 +9,8 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.22.2"
+  },
+  "dependencies": {
+    "write-json-file": "^5.0.0"
   }
 }
